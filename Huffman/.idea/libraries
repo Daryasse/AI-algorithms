@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="charsets">
+      <CLASSES>
+        <root url="jar://C:/Program Files/Java/jre1.8.0_271/lib/charsets.jar!/" />
+        <root url="jar://C:/Program Files/Java/jre1.8.0_271/lib/deploy.jar!/" />
+        <root url="jar://C:/Program Files/Java/jre1.8.0_271/lib/javaws.jar!/" />
+        <root url="jar://C:/Program Files/Java/jre1.8.0_271/lib/jce.jar!/" />
+        <root url="jar://C:/Program Files/Java/jre1.8.0_271/lib/jfr.jar!/" />
+        <root url="jar://C:/Program Files/Java/jre1.8.0_271/lib/jfxswt.jar!/" />
+        <root url="jar://C:/Program Files/Java/jre1.8.0_271/lib/jsse.jar!/" />
+        <root url="jar://C:/Program Files/Java/jre1.8.0_271/lib/plugin.jar!/" />
+        <root url="jar://C:/Program Files/Java/jre1.8.0_271/lib/rt.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="javafx">
+      <CLASSES>
+        <root url="jar://C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx-swt.jar!/" />
+        <root url="jar://C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.base.jar!/" />
+        <root url="jar://C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.controls.jar!/" />
+        <root url="jar://C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.fxml.jar!/" />
+        <root url="jar://C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.graphics.jar!/" />
+        <root url="jar://C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.media.jar!/" />
+        <root url="jar://C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.swing.jar!/" />
+        <root url="jar://C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.web.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jdk-15">
+      <ANNOTATIONS>
+        <root url="file://C:/Program Files/Java/jdk-15" />
+      </ANNOTATIONS>
+      <CLASSES>
+        <root url="file://C:/Program Files/Java/jdk-15" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://C:/Program Files/Java/jdk-15" recursive="false" />
+    </library>
+  </component>
+</project>

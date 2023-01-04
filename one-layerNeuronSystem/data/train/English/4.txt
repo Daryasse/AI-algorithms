@@ -1,0 +1,29 @@
+The articles in English are the definite article the and the indefinite articles a and an. The definite article is used when the speaker believes that the listener knows the identity of the noun's referent (because it is obvious, because it is common knowledge, or because it was mentioned in the same sentence or an earlier sentence). The indefinite article is used when the speaker believes that the listener does not have to be told the identity of the referent. No article is used in some noun phrases.
+
+English grammar requires that, in most cases, a singular, countable noun phrase start with a determiner.[1] For example, I have a box is OK, but *I have box is not. The most common determiners are the articles the and a(n), which specify the presence or absence of definiteness of the noun. Other possible determiners include words like this, my, each and many. There are also cases where no determiner is required, as in the sentence John likes fast cars, where neither John nor fast cars includes a determiner.
+
+The definite article the is used when the referent of the noun phrase is assumed to be unique or known from the context. For example, In the sentence The boy with glasses was looking at the moon, it is assumed that in the context the reference can only be to one boy and one moon. However, the definite article is not used:
+
+with generic nouns (plural or uncountable): cars have accelerators, happiness is contagious, referring to cars in general and happiness in general (compare the happiness I felt yesterday, specifying particular happiness);
+with most proper names: John, France, London, etc.
+The indefinite article a (before a consonant sound) or an (before a vowel sound) is used only with singular, countable nouns. It indicates that the referent of the noun phrase is one unspecified member of a class. For example, the sentence An ugly man was smoking a pipe does not specify the identity of the ugly man or pipe.
+
+When referring to a particular date, the definite article the is typically used.[2]
+
+He was born on the 10th of May.
+However, when referring to a day of the week, the indefinite article 'a' is used.
+
+He was born on a Thursday.
+No article is used with plural or uncountable nouns when the referent is indefinite (just as in the generic definite case described above). However, in such situations, the determiner some is often added (or any in negative contexts and in many questions). For example:
+
+There are apples in the kitchen or There are some apples in the kitchen;
+We do not have information or We do not have any information;
+Would you like tea? or Would you like some tea? and Would you like any tea? or Would you like some good tea?
+Additionally, articles are not normally used:
+
+in noun phrases that contain other determiners (my house, this cat, America's history), although one can combine articles with certain other determiners, as in the many issues, such a child (see English determiners § Combinations of determiners).
+with pronouns (he, nobody), although again certain combinations are possible (as the one, the many, the few).
+preceding noun phrases consisting of a clause or infinitive phrase (what you've done is very good, to surrender is to die).
+If it is required to be concise, e.g. in headlines, signs, labels, and notes, articles are often omitted along with certain other function words. For example, rather than The mayor was attacked, a newspaper headline might say just Mayor attacked.
+
+For more information on article usage, see the sections Definite article § Notes and § Indefinite article below. For more cases where no article is used, see Zero article in English.
